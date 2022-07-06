@@ -1,7 +1,5 @@
 # clock-with-tailwand
 
-#Codepen link: https://codepen.io/Evcat/pen/rNdxyMY
-
 ## Project setup
 ```
 npm install
